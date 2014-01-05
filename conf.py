@@ -241,3 +241,6 @@ texinfo_documents = [
 
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
+
+# Enable raw output because sphinx is paranoid
+enable_raw = True
